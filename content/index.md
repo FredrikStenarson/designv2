@@ -14,28 +14,20 @@ views:
         template: anax/v2/image/default
         data:
             #src: "image/theme/tree.jpg?width=1100&height=150&crop-to-fit&area=0,0,30,0"
-            src: "image/keyboard.jpg?width=1100&height=180&crop-to-fit&area=10,10,0,10"
+            src: "image/blurrycode.jpg?width=1100&height=180&crop-to-fit&area=0,0,30,0"
 
 ---
 Min me-sida i kursen design
 =========================
+Mitt studentacronym är frst19. Jag är född och uppvuxen i Karlskrona. Jag har bott i Karlskrona, Lund, Göteborg och Stockholm. Tidigare har jag pluggat materialdesign, med inriktning på stålframställning och svetsteknik.
+[FIGURE src="image/frst19.jpg?w=300&crop-to-fit&area=10,25,0,25" class="right" caption="Bild på frst19"]
 
+I somras flyttade jag ifrån Stockholm efter bott där ca 10år. Just nu bor jag på Trossö och knegar från home office för att skrapa ihop slantar till mitt dagliga bröd, statskassan och CSN-lån.
+
+På sikt hoppas jag att jag ska kunna göra coola, komplexa och funktionella hemsidor.
+När jag inte jobbar eller pluggar grejar jag och min sambo med lägenheten vi nyss flyttat till.
+
+Jag drömmer om att driva eget företag en vacker dag och hoppas att jag kan få ha använding av färdigheter från tidigare studier, arbetslivet och nuvarande studier.
+
+* * *
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
-
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
-
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
-
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
-
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael

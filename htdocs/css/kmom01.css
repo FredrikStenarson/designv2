@@ -14,3 +14,187 @@
 .rm-navbar-max {
     display: none;
 }
+
+.region-header-col-1 {
+    /* position: absolute;
+    left: 0; */
+    float: left;
+    overflow: auto;
+}
+
+.site-logo {
+    display: none;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+    margin: 0 auto;
+}
+
+.rm-navbar {
+    overflow: auto;
+}
+
+.rm-navbar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.rm-navbar ul li {
+    /* background-color: rgba(18, 71, 110, 0.77); */
+    float: left;
+    margin: 0;
+    padding: 20px 20px 5px 20px;
+    opacity: 0.8;
+    text-align: center;
+}
+
+.rm-navbar ul li a {
+    text-decoration: none;
+}
+
+.rm-navbar a:visited {
+    color: #000000;
+}
+
+.outer-wrap-flash {
+    clear: both;
+    overflow: auto;
+}
+
+.region-flash img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.wrap-all {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 15px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.breadcrumb-list ul li {
+    display: inline-block;
+}
+
+.region-main {
+    max-width: 650px;
+    padding: 0 10px;
+}
+
+.next-previous {
+    float: left;
+    min-width: 100%;
+}
+
+.next {
+    float: right;
+}
+
+.previous {
+    float: left;
+}
+
+.region-main hr {
+    clear: both;
+}
+
+.right {
+    float: right;
+    margin: 0 0 0 10px;
+}
+
+.right img {
+    width: 150px;
+}
+
+.wrap-sidebar {
+    width: 200px;
+}
+
+.wrap-sidebar ul li {
+    list-style: none;
+}
+
+.region-has-sidebar {
+    overflow: auto;
+}
+
+.toc {
+    padding-left: 0;
+}
+
+.region-sidbar-left {
+    float: left;
+}
+
+.region-sidebar-right {
+    float: right;
+}
+
+.has-sidebar-left {
+    float: left;
+    max-width: 650px;
+}
+
+.has-sidebar-right {
+    float: left;
+}
+
+.footer-column {
+    width: 33%;
+    min-width: 180px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.region-footer {
+    clear: both;
+}
+
+.footer-column h4 {
+    margin: 5px 0;
+}
+
+.footer-column p {
+    margin-top: 5px;
+}
+
+.site-footer {
+    clear: left;
+    text-align: center;
+}
+
+@media (max-width: 900px) {
+    .wrap-all {
+        max-width: 1200px;
+    }
+
+    .has-sidebar-right {
+        max-width: 800px;
+    }
+
+    .right {
+        float: left;
+    }
+
+    .wrap-sidebar {
+        display: none;
+    }
+}
+
+@media (max-width: 580px) {
+    .footer-column {
+        width: 100%;
+        max-width: 300px;
+        padding: 0;
+    }
+
+
+}

@@ -50,7 +50,7 @@ return [
         ],
         [
             "text" => "Lek",
-            "url" => "verktyg",
+            "url" => "test",
             "title" => "Lek runt med olika konstruktioner.",
         ],
     ],
