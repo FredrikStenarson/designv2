@@ -1,0 +1,51 @@
+/**
+ * Base style to affect HTML elements on a general scale.
+ */
+@bgColorHtml: #424242;
+@bgColorBody: #fff;
+@colorBody: #333;
+// @fontFamilyBody: serif;
+
+// Magic number and base fontsize
+@magicNumber:  24px;  // 22px
+@fontSizeBody: 16px;
+
+html {
+    overflow-y: scroll;
+    background-color: @bgColorHtml;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    color: @colorBody;
+    background-color: @bgColorBody;
+    // font: 100.01%/1 @fontFamilyBody;
+    #desinax-hgrid.font(@fontSizeBody);
+}
+
+img {
+    max-width: 100%;
+}
+
+.outer-wrap-header {
+    background-color: @bgColorNavbar;
+    color: @colorNavbar;
+
+    a:link, a:visited, a:hover {
+        color: @colorNavbar;
+    }
+
+    .rm-desktop li ul {
+        background-color: @bgColorNavbar;
+    }
+}
+
+.outer-wrap-footer,
+.inner-wrap-footer {
+    background-color: @bgFooterColor;
+    color: @colorFooter;
+}
+
+// Activate grid and affect all typographic elements
+#desinax-hgrid.activateDefaultTypography();
