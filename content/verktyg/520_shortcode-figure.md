@@ -43,7 +43,7 @@ Vi börjar med att centrera en bild.
 
 Vi kan också få texten att flyta kring bilden genom att justera bilden till höger eller vänster. För att visa hur det ser ut i texten så lägger jag till en del dummy-text.
 
-[FIGURE src="image/kabbe.jpg?w=300&h=200&crop-to-fit&f=grayscale&area=0,30,20,30" caption="Kabbe är ute och går, till höger, en höstdag." class="right"]
+[FIGURE src="image/kabbe.jpg?crop-to-fit&area=0,0,0,0" caption="Kabbe är ute och går, till höger, en höstdag." class="right"]
 
 Först flyter vi bilden till höger med följande konstruktion.
 

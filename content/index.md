@@ -15,8 +15,8 @@ views:
         data:
             #src: "image/theme/tree.jpg?width=1100&height=150&crop-to-fit&area=0,0,30,0"
             src: "image/blurrycode.jpg?width=1100&height=180&crop-to-fit&area=0,0,30,0"
-
 ---
+
 Min me-sida i kursen design
 =========================
 Mitt studentacronym är frst19. Jag är född och uppvuxen i Karlskrona. Jag har bott i Karlskrona, Lund, Göteborg och Stockholm. Tidigare har jag pluggat materialdesign, med inriktning på stålframställning och svetsteknik.

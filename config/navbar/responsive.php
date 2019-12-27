@@ -45,6 +45,25 @@ return [
             ],
         ],
         [
+        "text" => "Rapport",
+        "url" => "rapport",
+        "title" => "Rapporter från kursmomenten.",
+        "submenu" => [
+            "items" => [
+                [
+                    "text" => "04_färgschema",
+                    "url" => "rapport/fargschema",
+                    "title" => "Rapport färgschema.",
+                ],
+                [
+                    "text" => "05_laddningstid",
+                    "url" => "rapport/laddningstid",
+                    "title" => "Rapport laddningstid.",
+                ],
+            ],
+        ],
+    ],
+        [
             "text" => "Om",
             "url" => "om",
             "title" => "Om denna webbplats.",

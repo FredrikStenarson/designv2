@@ -5269,13 +5269,6 @@ a.rm-button.rm-clicked .rm-button-face-2 {
 .previous {
   float: left;
 }
-.right {
-  float: right;
-  margin: 0 0 0 10px;
-}
-.right img {
-  width: 150px;
-}
 @media screen and (max-width: 500px) {
   .footer-column {
     display: inline;

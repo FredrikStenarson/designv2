@@ -54,8 +54,18 @@ return [
                         "url" => "rapport/fargschema",
                         "title" => "Rapport färgschema.",
                     ],
+                    [
+                        "text" => "05_laddningstid",
+                        "url" => "rapport/laddningstid",
+                        "title" => "Rapport laddningstid.",
+                    ],
                 ],
             ],
+        ],
+        [
+            "text" => "Blogg",
+            "url" => "blogg",
+            "title" => "Dagens bild",
         ],
         [
             "text" => "Om",
