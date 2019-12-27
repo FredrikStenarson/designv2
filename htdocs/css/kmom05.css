@@ -5727,6 +5727,13 @@ figure.codepen,
 figure.figure-codepen {
   width: 100%;
 }
+.region-header,
+.region-flash,
+.inner-wrap-header .row,
+.inner-wrap-flash .row {
+  margin: 0;
+  width: 100%;
+}
 /**
  * Layout style for general structure of header, navbar, main, footer
  * and other regions of the page including route specific styles.

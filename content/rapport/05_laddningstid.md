@@ -139,7 +139,7 @@ Det som drar ner ESAB och Lincoln är bland annat att länkar saknar beskrivande
 
 De åtgärder som föreslås för ESAB och Lincoln ter sig relativt enkla att genomföra.
 
-### Sidladdningsresult från DevTools
+### DevTools
 Resultatet för parametrar undersökta med Devtools ger en klar bild över att Böhler har långsammast sida på samtliga punkter. ESAB och Lincoln är varierande bäst i de olika parametrarna även om Lincoln är bättre på fler punkter.
 
 I uppgiften specificerades att sidans laddningstid (Load), tillsammans med antalet resurser som laddas samt (AntalFörfrågningar) sidans totala storlek (Storlek) skulle undersökas.
